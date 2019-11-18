@@ -1,0 +1,68 @@
+body {
+  background-color:#fad6d6;
+  }
+
+
+h1{
+  text-decoration:underline;
+  text-align: center;
+  color:red;
+}
+
+#title:hover{
+  color:gold;
+}
+
+#title{
+   color:purple;
+   font-size: 60px;
+
+  }
+
+img{
+  height:250px;
+  background-color: purple;
+}
+
+
+
+p{
+  font-size: 20px;
+  color:#c70d3a;
+  text-align: center;
+}
+
+
+.cattext{
+  color:purple;
+}
+
+
+hr{
+  color:purple;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width:10%;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td{
+  padding:10px;
+}
+
+.emoji1 {
+  background-color:orange;
+}
+
+.circular{
+  border-radius:100%;
+}
+
+.emoji2{
+  background-color: pink;
+}
